@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="out">
+        <item>320 x 240</item>
+        <item>480 x 320</item>
+        <item>720 x 480</item>
+        <item>1280 x 720</item>
+    </string-array>
+</resources>
